@@ -1,0 +1,43 @@
+<html>
+<head>
+<style>
+body{
+   background-image:url("back.jpg");
+   padding-top: 10px;
+}
+h1{
+  color: black;
+  font-size: 40px;
+  font-family: "宋体";
+  text-align: center;
+}
+
+p{
+  color: white;
+  font-size: 25px;
+  font-family: "宋体";
+  padding: 20px;
+}
+
+.button{
+        width: 100px;
+        height: 30px;
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        border-radius: 4px;
+        background-color: #008B8B;
+        font-style:#fff; 
+    } 
+</style>
+</head>
+
+<body>
+<input class="button" name="Submit " type="submit" value="返回" onclick="javascript:history.back()" />
+<h1> 兴趣</h1>
+<p> 喜欢读书，最爱的作家是加缪，最爱的一本书是他的《局外人》。<img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwwww.ptez.com.cn%2Fupload%2Fimage%2F20200323%2F6372056008541900009140364.jpg&refer=http%3A%2F%2Fwwww.ptez.com.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1625145317&t=7a42afcea4071010c0ef139d55fb2e6e"align ="right" align="top" width="120" height="200"></p>
+<p>  全书分为两个部分，第一部分从默尔索的母亲去世开始，到他在海滩上杀死阿拉伯人为止，是按时间顺序叙述的故事。这种叙述毫无抒情的意味，而只是默尔索内心自发意识的流露，因而他叙述的接二连三的事件、对话、姿势和感觉之间似乎没有必然的联系，给人以一种不连贯的荒谬之感，因为别人的姿势和语言在他看来都是没有意义的，是不可理解的。唯一确实的存在便是大海、阳光，而大自然却压倒了他，使他莫名其妙地杀了人：“我只觉得铙钹似的太阳扣在我的头上……我感到天旋地转。海上泛起一阵闷热的狂风，我觉得天门洞开，向下倾泻大火。我全身都绷紧了，手紧紧握住枪。枪机扳动了……”</p>
+
+<p>在第二部分里，牢房代替了大海，社会的意识代替了默尔索自发的意识。司法机构以其固有的逻辑，利用被告过去偶然发生的一些事件把被告虚构成一种他自己都认不出来的形象：即把始终认为自己无罪、对一切都毫不在乎的莫尔索硬说成一个冷酷无情、蓄意杀人的魔鬼。因为审讯几乎从不调查杀人案件，而是千方百计把杀人和他母亲之死及他和玛丽的关系联系在一起。</p>
+<p><a href="https://book.douban.com/subject/4908885/"target="_blank">豆瓣局外人书评</a></p>
+</body>
+</html>

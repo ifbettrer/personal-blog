@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>加缪</title>
+<style>
+body{
+   background-image:url("back.jpg");
+   padding-top: 10px;
+}
+
+h1{
+  color: black;
+  font-size: 40px;
+  font-family: "楷体";
+  text-align: center;
+}
+
+p{
+  color: black;
+  font-size: 30px;
+  font-family: "楷体";
+  padding: 20px;
+}
+
+.button{
+        width: 100px;
+        height: 30px;
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        border-radius: 4px;
+        background-color: #008B8B;
+        font-style:#fff; 
+    }
+</style>
+</head>
+
+<body>
+<input class="button" name="Submit " type="submit" value="返回" onclick="javascript:history.back()" />
+<h1>加缪</h1>
+<p>阿尔贝·加缪（Albert Camus，1913年11月7日-1960年1月4日），法国作家、哲学家，出生于阿尔及利亚的蒙多维，存在主义文学、“荒诞哲学”的代表人物，1957年获得诺贝尔文学奖获得者。</p>
+<p>代表作品有《鼠疫》《局外人》等。加缪的创作特色是用白描手法，极其客观地表现人物的一言一行。文笔简洁、明快、朴实，保持传统的优雅笔调和纯正风格。
+他的“小说从来都是形象的哲学”，蕴含着哲学家对人生的严肃思考和艺术家的强烈激情。在短暂的创作生涯中，他赢得了远远超过前辈的荣誉。<br>
+<img src="https://pic.baike.soso.com/ugc/baikepic2/3220/20170730102352-778506225.jpg/0""align ="right" align="top" width="200"><nobr>另外他本人也是十分帅气.</p>
+</body>
+</html>

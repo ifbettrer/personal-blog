@@ -1,0 +1,39 @@
+* { 
+/* CSS样式重置 */
+    margin:0; 
+    padding:0;
+   }
+html,body{
+    background:url("back.jpg") 0 0 repeat;
+    padding:35px 0 0;
+    margin:auto;
+	text-align:center;
+	font-family:宋体;
+	font-size:30px;
+	margin:0; 
+	padding:0;
+}
+
+h1{
+  color: black;
+  font-size: 40px;
+  font-family: "楷体";
+  text-align: center;
+}
+
+p{
+  color: black;
+  font-size: 30px;
+  font-family: "楷体";
+  padding: 20px;
+}
+
+.button{
+        width: 100px;
+        height: 30px;
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        border-radius: 4px;
+        background-color: #008B8B;
+        font-style:#fff; 
+    } 

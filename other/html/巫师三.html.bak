@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+body{
+   background-image:url("back.jpg");
+   padding-top: 10px;
+}
+
+p{
+  color: black;
+  font-size: 20px;
+  font-family: "楷体";
+  padding: 5px;
+}
+#header {
+    background-color:#FAFAD2;
+    color:black;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:lightyellow;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    padding:10px;	 	 
+}
+#footer {
+    background-color:#FAFAD2;
+    color:black;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+
+#button{
+        width: 100px;
+        height: 30px;
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        border-radius: 4px;
+        background-color: #008B8B;
+        font-style:#fff; 
+    } 
+</style>
+</head>
+
+<body>
+
+<input id="button" name="Submit " type="submit" value="返回" onclick="javascript:history.back()" />
+
+<div id="header">
+<h1>巫师三</h1>
+</div>
+
+<div id="nav">
+Leno<br>
+Ada<br>
+Chris<br>
+</div>
+
+<div id="section">
+<h2>简单介绍</h2>
+<p>
+游戏以第三人称视角进行，玩家扮演狩魔猎人杰洛特，用剑和魔法来抵御在奇幻世界中遇到的危险，同时完成故事的主线与支线任务以推动剧情发展。<br>
+游戏中玩家将扮演猎魔人杰洛特进行游戏。通过完成任务和打败怪物可以获得经验点数，在获得一定的经验点数后就能提升等级，并获得能力点数、解锁技能槽与突变诱发物槽来进行人物设定。<br>
+杰洛特恢复记忆后，开始四处寻找叶奈法的踪迹。最终，叶奈法联系了数年未见的杰洛特，请杰洛特前往威洛拜的村庄碰头。然而当杰洛特赶到约定地点时，整座村庄已经被大军夷为平地，叶奈法也不见踪迹。途中杰洛特碰见维瑟米尔，在他的帮助下一同追踪叶奈法的踪迹。在路途中，杰洛特梦见了凯尔莫罕的遭遇，梦境警示杰洛特他的养女希里遭遇了某种问题。
+</p>
+</div>
+
+<div id="footer">
+Copyright @Solitude
+</div>
+
+</body>
+</html>

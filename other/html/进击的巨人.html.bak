@@ -1,0 +1,45 @@
+<html>
+<head>
+<title> 进击的巨人</title>
+<style>
+body{
+   background-image:url("back.jpg");
+   padding-top: 10px;
+}
+
+h1{
+  color: black;
+  font-size: 40px;
+  font-family: "楷体";
+  text-align: center;
+}
+
+p{
+  color: black;
+  font-size: 30px;
+  font-family: "楷体";
+  padding: 20px;
+}
+
+.button{
+        width: 100px;
+        height: 30px;
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        border-radius: 4px;
+        background-color: #008B8B;
+        font-style:#fff; 
+    } 
+</style>
+</head>
+
+<body>
+<input class="button" name="Submit " type="submit" value="返回" onclick="javascript:history.back()" />
+<h1> 进击的巨人</h1>
+<p>如果要问我最爱的漫画是哪个，我肯定会说进击的巨人，当然是在完结篇出来之前（所以说谏山创给爷爬好吧，累了，毁灭吧）
+<br>漫画故事背景建立在人类与天敌巨人的对抗上，人类居住在由高墙包围的城市，联合对抗会食人的巨人。107年前（743年），世界上突然出现了人类的天敌“巨人”。面临着生存危机而残存下来的人类逃到了一个地方，盖起了三重巨大的城墙。人们在这隔绝的环境里享受了一百多年的和平，直到艾伦·耶格尔十岁那年，60米高的“超大型巨人”突然出现，以压倒性的力量破坏城门，其后瞬间消失，凶残的巨人们成群的冲进墙内捕食人类。</br>
+<br>我最喜欢的角色是利威尔，人帅还狠，但是结局很惨!最后结局真的很烂，看到裂开大喊“谏山创你欠我的拿什么还的那种地步”，但是前面真的很精彩，人物塑造成功，热血沸腾。</br> <img src="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20191119210731-1950272629_jpg_500_687_69312.jpg/800""align ="right" align="top" width="150" height="200">
+<img src = "https://i02piccdn.sogoucdn.com/749bb470f1df36f3""align ="right" align="top" width="300" height="200">
+<img src="http://n.sinaimg.cn/ent/crawl/20170414/sLwa-fyeimrn1950574.jpg""align ="right" align="top" width="150" height="200">
+<img src="http://b-ssl.duitang.com/uploads/item/201511/14/20151114094736_XF3wV.jpeg""align ="right" align="top" width="300" height="200"></p>
+</body>

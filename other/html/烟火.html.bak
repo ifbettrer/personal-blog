@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+body{
+   background-image:url("back.jpg");
+   padding-top: 10px;
+}
+
+p{
+  color: black;
+  font-size: 20px;
+  font-family: "楷体";
+  padding: 5px;
+}
+.header {
+    background-color:#FAFAD2;
+    color:black;
+    text-align:center;
+    padding:5px;
+}
+.nav {
+    line-height:30px;
+    background-color:lightyellow;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+.section {
+    padding:10px;	 	 
+}
+.footer {
+    background-color:#FAFAD2;
+    color:black;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+
+.button{
+        width: 100px;
+        height: 30px;
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        border-radius: 4px;
+        background-color: #008B8B;
+        font-style:#fff; 
+    } 
+</style>
+</head>
+
+<body>
+
+<input class="button" name="Submit " type="submit" value="返回" onclick="javascript:history.back()" />
+
+<div class="header">
+<h1>生化危机</h1>
+</div>
+
+<div class="nav">
+拾英工作室制作<br>
+Gamera Game发行<br>
+</div>
+
+<div class="section">
+<h2>故事梗概</h2>
+<p>
+《烟火》是一款恐怖悬疑解谜游戏。在Steam上放出了试玩版供玩家免费下载.<br>
+《烟火》的故事发生在一座偏远的山中小镇，一场葬礼上的火灾牵扯出一宗离奇的灭门惨案。刚刚到任不久的新人警察与支教教师联手调查案子背后的真相。随着调查的逐步深入，受害者的过往渐渐浮出水面，而真相却变得愈加扑朔迷离……游戏采用怀旧的水彩画风，配合光影音效，营造出一种独特的诡异氛围，加上故事背景设置在2004年前后，不禁令人回想起小时候到租碟店租鬼片和小伙伴们一起看的时光。<br>
+在试玩版中，游戏里的诸多角色和人物一一登场，新人警察林理洵、支教老师陈青穗、医生叶敬山、小卖铺老板王金财，惨遭灭门的田芳芳一家。其中医生叶敬山给人一种老道、隐忍、深藏不露的感觉，与《隐秘的角落》中的数学老师张东升有那么几分相似。各种人物之间的关系错综复杂，加上游戏阴沉恐怖的氛围，更加重了悬疑的感觉。
+</p>
+</div>
+
+<div class="footer">
+Copyright @Solitude
+</div>
+
+</body>
+</html>

@@ -1,0 +1,70 @@
+<html>
+<head>
+<title> hobby </title>
+<style>
+
+body{
+   background-image:url("back.jpg");
+   padding-top: 10px;
+}
+
+.right{
+      float:right;
+      width:500px;
+      margin: 0 0 15px 20px;
+      padding:50px;
+      }
+.left{
+       padding:5px;
+       font-size:25px;
+       font-family:宋体；
+       }
+
+.button{
+        width: 100px;
+        height: 30px;
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        border-radius: 4px;
+        background-color: #008B8B;
+        font-style:#fff; 
+    } 
+</style>
+</head>
+
+<body>
+
+<input class="button" name="Submit " type="submit" value="返回" onclick="javascript:history.back()" />
+
+<div class="right">
+	<img src="http://img31.mtime.cn/pi/2014/03/06/094938.98440666_1000X1000.jpg"  width="400px" margin = "10px 10px 0 0">
+	<img src = "https://img1.doubanio.com/view/photo/l/public/p449897379.webp" width = "400px" margin = "10px 10px 0 0">
+</div>
+
+<div class = "left">
+<h2> 爱好：</h2>
+<ul>
+  <li>听歌</li>
+  <li>看电影</li>
+  <li>玩游戏</li>
+  <li>旅游</li>
+</ul>
+
+<h2>喜爱的歌曲：</h2>
+<ol>
+   <li> underwater</li>
+   <li> 我怀念的</li>
+   <li> experience</li>
+   <li> still </li>
+</ol>
+
+<h2>喜爱的电影：</h2>
+<ol type = "a">
+   <li> 肖申克的救赎</li>
+   <li> 霸王别姬</li>
+   <li> 情书</li>
+   <li> 死亡诗社</li>
+</ol>
+</div>
+</body>
+</html>

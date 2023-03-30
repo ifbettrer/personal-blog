@@ -1,0 +1,47 @@
+<html>
+<head>
+<title> 排球少年</title>
+<style>
+body{
+   background-image:url("back.jpg");
+   padding-top: 10px;
+}
+
+h1{
+  color: black;
+  font-size: 40px;
+  font-family: "楷体";
+  text-align: center;
+}
+
+p{
+  color: black;
+  font-size: 30px;
+  font-family: "楷体";
+  padding: 20px;
+}
+
+.button{
+        width: 100px;
+        height: 30px;
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        border-radius: 4px;
+        background-color: #008B8B;
+        font-style:#fff; 
+    } 
+</style>
+</head>
+
+<body>
+<input class="button" name="Submit " type="submit" value="返回" onclick="javascript:history.back()" />
+<h1> 文豪野犬(我最喜欢的是里面的哒宰先生）</h1>
+<p>《文豪野犬》是由朝雾卡夫卡担当原作、春河35作画的日本漫画作品，自2013年1月号起在《YOUNG ACE》上连载，讲述了以现代横滨为舞台展开的超能力战斗的故事。该漫画曾获得“书店店员票选推荐漫画”2014年第11名的成绩。
+<br>以现代横滨为舞台讲述文豪们的超能力战斗！！
+被孤儿院赶出，因为饥饿昏倒在旅途中的少年中岛敦救出了企图自杀的名为太宰治的青年。在听说太宰所属的组织“武装侦探社”正在追捕为害一方的猛兽“食人虎”时，敦意外地露出了惊惧的神情——食人虎与敦有什么关系？侦探们将如何捕捉它？后续又会有怎样的发展？</br>
+<br>一场引人入胜的故事由此揭开——</br>
+<br>万般皆注定，身入此镇中——</br> <img src="https://pic.baike.soso.com/ugc/baikepic2/0/ori-20191028171804-673808112_jpg_700_962_83593.jpg/800""align ="right" align="top" width="150" height="200">
+<img src = "https://pic.baike.soso.com/ugc/baikepic2/0/ori-20191028171907-1559773885_jpg_900_600_240586.jpg/800""align ="right" align="top" width="300" height="200">
+<img src="https://pic.baike.soso.com/ugc/baikepic2/30220/20170705182900-423577713.jpg/0""align ="right" align="top"  width="300" height="200">
+<img src="https://pic.baike.soso.com/ugc/baikepic2/30220/20170705182900-423577713.jpg/0""align ="right" align="top"  width="300" height="200"></p>
+</body>

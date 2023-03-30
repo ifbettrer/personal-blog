@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>about this work</title>
+
+<style>
+   body {
+        background-image:url("back.jpg");
+        padding-top: 10px;
+    }
+    p{
+        padding:100px;
+	    text-align:center;
+	    font-family:ËÎÌו;
+	    font-size:30px;
+    }
+   .button{
+        width: 100px;
+        height: 30px;
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        border-radius: 4px;
+        background-color: #008B8B;
+        font-style:#fff; 
+    } 
+</style>
+</head>
+
+<body>
+<p> copyright from solitude </p>
+<p>2021.6.6</p>
+</body>
+<html>

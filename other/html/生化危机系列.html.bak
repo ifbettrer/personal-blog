@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+body{
+   background-image:url("back.jpg");
+   padding-top: 10px;
+}
+
+p{
+  color: black;
+  font-size: 20px;
+  font-family: "楷体";
+  padding: 5px;
+}
+#header {
+    background-color:#FAFAD2;
+    color:black;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:lightyellow;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    padding:10px;
+	background-color:white;
+}
+#footer {
+    background-color:#FAFAD2;
+    color:black;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+
+#button{
+        width: 100px;
+        height: 30px;
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        border-radius: 4px;
+        background-color: #008B8B;
+        font-style:#fff; 
+    } 
+</style>
+</head>
+
+<body>
+
+<input id="button" name="Submit " type="submit" value="返回" onclick="javascript:history.back()" />
+
+<div id="header">
+<h1>生化危机</h1>
+</div>
+
+<div id="nav">
+Leno<br>
+Ada<br>
+Chris<br>
+</div>
+
+<div id="section">
+<h2>故事梗概</h2>
+<p>
+生化危机系列游戏是由日本CAPCOM公司推出的电子系列游戏，创始人为三上真司。因为游戏非常好玩所以一直又版本更新，人气也越来越高，目前已经出到生化危机8了，很多之前的版本还做了重制版，很多其他游戏也沿用了生化危机游戏模式，还有一些玩家自己制作了相关的MOD。
+</p>
+<p>
+生化危机开始在浣熊市，浣熊市病毒大爆发，始作俑者为一家表面为生物制药实则是为军方提供生化武器的实验公司保护伞（umbrella），生化危机0到6均以包含leon，Chris等为主角团的故事，七到八季主角则换成了一个“普通市民”Eason Winters，发生的场景也不一样，7温特斯是去找女朋友，8是去找女儿（滑稽），最后战死。（洗手液战神谢谢你）
+</p>
+</div>
+
+<div id="footer">
+Copyright @Solitude
+</div>
+
+</body>
+</html>
